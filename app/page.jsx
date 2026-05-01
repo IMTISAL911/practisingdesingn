@@ -106,11 +106,16 @@
 
 import React from "react";
 import Grid from "./Grid/page";
+import Practise from "./Practise/page";
 
 const Home = () => {
   return (
     <>
-      <Grid />
+      <Practise />
+      {/* <Grid /> */}
+
+
+
 
       {/* Example block (optional, clean version) */}
       {/*
